@@ -33,12 +33,12 @@ Open index.html in a browser.
 📁 Project Structure
 ```bash
 amazon-clone/
-├── assets/             # Images and static files
+├── images/             # Images and static files
 ├── css/                # Stylesheets
 │   └── styles.css      # Main CSS file
 ├── js/                 # JavaScript files
 │   └── script.js       # Main JavaScript logic
-├── index.html          # Main HTML file
+├── amazon.html          # Main HTML file
 └── README.md           # Project documentation
 ````
 ## 🧩 Adding Features
