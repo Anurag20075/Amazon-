@@ -4,7 +4,7 @@ A responsive Amazon clone built with HTML, CSS, and JavaScript, mimicking core e
 
 ## Image
 
-[![Amazon Clone Demo]:(C:\Users\goyal\OneDrive\Desktop\Amazon-\video\video.mp4)]
+![Amazon Clone Demo]:(C:\Users\goyal\OneDrive\Desktop\Amazon-\video\video.mp4)
 
 ## 🚀 Features
 
