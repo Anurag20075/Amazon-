@@ -1,6 +1,11 @@
 ## Amazon Clone
+
 A responsive Amazon clone built with HTML, CSS, and JavaScript, mimicking core e-commerce features.
+
 ## Image
+
+![Amazon Clone Demo]:(video/video.mp4)
+
 ## 🚀 Features
 
 - **HTML5**: Semantic structure for accessibility
@@ -18,6 +23,7 @@ A responsive Amazon clone built with HTML, CSS, and JavaScript, mimicking core e
 - Basic knowledge of HTML, CSS, and JavaScript
 
 ## 🛠️ Installation
+
 ```bash
 Clone the repository:
 git clone https://github.com/Anurag20075/Amazon-Clone.git
@@ -28,9 +34,10 @@ cd amazon-clone
 
 
 Open index.html in a browser.
-````
+```
 
 📁 Project Structure
+
 ```bash
 amazon-clone/
 ├── images/             # Images and static files
@@ -40,8 +47,10 @@ amazon-clone/
 │   └── script.js       # Main JavaScript logic
 ├── amazon.html          # Main HTML file
 └── README.md           # Project documentation
-````
+```
+
 ## 🧩 Adding Features
+
 ```bash
 To extend functionality, modify js/script.js. Example for cart addition:
 function addToCart(productId) {
@@ -49,8 +58,10 @@ function addToCart(productId) {
   cart.push(product);
   updateCartDisplay();
 }
-````
+```
+
 ## 🎨 Styling
+
 Uses CSS3 with:
 
 - Flexbox and Grid for layouts
@@ -59,6 +70,7 @@ Uses CSS3 with:
 - Hover effects and transitions
 
 ## 📱 Responsive Design
+
 - Mobile-first design with CSS media queries for seamless device compatibility.
 
 ## 🙏 Acknowledgments
